@@ -1,3 +1,4 @@
+https://colab.research.google.com/drive/1HfKBQPRoov6LSLk_qT2GfYcfh3yPpcTF?usp=sharing
 # Stock Price Prediction for 2026 📈
 
 This project uses historical stock price data to build a regression model that predicts the stock's closing price for the year 2026 using **Linear Regression**.
